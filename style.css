@@ -1,0 +1,26 @@
+body{
+    font-family: "EB Garamond", serif;
+    font-style: normal;
+}
+
+.content{
+    font-family: serif;
+}
+
+hr{
+    border: 0.15px solid; 
+    margin: 0px;
+}
+
+.title{
+    font-weight: bold; 
+    margin: 0px;
+}
+
+.content{
+    margin-top: 0px;
+}
+
+ul{
+    margin-top: 0px;
+}
